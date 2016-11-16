@@ -12,6 +12,7 @@ Accuracies:
 --- | --- | ---
 VGG+BN+Dropout | 91.3% | 92.45%
 NIN+BN+Dropout | 90.4% | 91.9%
+SqueezeNet+Residual | - | 78.39%
 
 Would be nice to add other architectures, PRs are welcome!
 
